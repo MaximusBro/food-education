@@ -3,6 +3,7 @@
 /node_modules
 /.php
 .php.js
+.db.json
 #testing
 /coverege
 #production
